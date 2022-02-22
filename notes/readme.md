@@ -4,6 +4,8 @@ Escribe el código HTML y CSS necesario para conseguir el diseño esperado.
 
 [Diseño esperado](https://oscarm.tinytake.com/msc/NjU0NDczOF8xOTA0MDg1MQ)
 
+Ejercicio resuelto por [Santi Castelli](https://github.com/santicastelli)
+
 # Solución
 
 ## ¿Cómo he planteado el problema?
