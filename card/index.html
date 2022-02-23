@@ -9,8 +9,50 @@
 </head>
 
 <body>
-    John Doe
-    Architect & Engineer
+
+    <style>
+
+        body{
+            background-color: #EFEFEF;
+            margin: 5px;
+        }
+        .card{
+            background-color: #fff;
+            display: flex;
+            flex-direction: column;
+            width: 32.2%;
+        }
+
+        .name{
+            margin-left: 10px;
+        }
+
+        .profession{
+            margin-left: 10px;
+            font-weight: 400;
+        }
+
+        .imagen{
+            display: flex;
+        }
+
+        .shadow:hover{
+            box-shadow: 5px 5px #CAF0F8;
+        }
+
+        img{
+            width: 200px;
+            height: 200px;
+        }
+
+    </style>
+   
+        <div class="card shadow">
+            <img class="imagen" src="/card.jpg" alt="">
+            <h2 class="name">John Doe</h2>
+            <h2 class="profession">Architect & Engineer</h2>
+        </div>
+
 </body>
 
 </html>
