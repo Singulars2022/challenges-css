@@ -6,6 +6,8 @@ BONUS: Consigue que al pasar el ratón por encima de la tarjeta, la sombra se vu
 
 [Vídeo](https://oscarm.tinytake.com/msc/NjU0NDczM18xOTA0MDgyOQ)
 
+Ejercicio resuelto por [Luciano Epifani](https://github.com/lucianoEpifani)
+
 # Solución
 
 ## ¿Cómo he planteado el problema?
