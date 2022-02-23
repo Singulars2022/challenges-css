@@ -1,6 +1,6 @@
 # Instrucciones
 
-Escribe el código HTML y CSS necesario para conseguir el diseño esperado. 
+Escribe el código HTML y CSS necesario para conseguir el diseño esperado. .....
 
 [Diseño esperado](https://oscarm.tinytake.com/msc/NjU0NDczOF8xOTA0MDg1MQ)
 
