@@ -10,6 +10,12 @@ BONUS: Consigue que al pasar el ratón por encima de la tarjeta, la sombra se vu
 
 ## ¿Cómo he planteado el problema?
 
+Organizar primero el código en html con sus respectivas clases y luego darle los estilos con css.
+
 ## ¿Cuál ha sido la parte más difícil?
 
-## ¿He aprendido algo nuevo?
+La sombra un poco
+
+## ¿He aprendido algo nuevo? Cita las páginas y recursos que has visitado también
+
+w3schools.com/cssref/css3_pr_box-shadow.asp
