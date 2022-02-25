@@ -1,0 +1,38 @@
+/* Quitar el style de las lists */
+h2::before {
+ content: "*";
+ color: red;
+}
+li {
+    list-style: none;
+}
+
+/* Hacer un flew para que esten en la misma fila */
+ul {
+    display: flex;
+    background-color: lightgrey ;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Quitar las text decorations que vienen asociadas a un enlace y cambiarle el color */
+a {
+    text-decoration: none;
+    color: rgb(0, 110, 255);
+}
+
+/* Utilizar el tag "::after" para poner los slash de separación  */
+.breadcrumb li::after {
+    content:"\002F";
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    color: black;
+
+}
+
+/* Quitar uno de los slash "\002F no hace falta, tenía dos / porque no había especificado cual de los 2 hijos afectaba" 
+.breadcrumb li::after {
+    content: "";
+    margin-left: 0;
+  }
